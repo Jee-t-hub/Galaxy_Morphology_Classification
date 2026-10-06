@@ -2,12 +2,13 @@
 
 ## 1. Performance Comparison
 
-Metric| CNN| Vision Transformer
-/n Best Validation Accuracy| 46.13%| 64.59%
-/n Test Accuracy| 44.80%| 62.68%
-/n Macro F1-Score| 42.22%| 59.64%
-/n Weighted F1-Score| 43.49%| 62.33%
-/n Parameters| 422,602| 545,546
+| Metric | CNN | Vision Transformer |
+|---|---:|---:|
+| Best Validation Accuracy | 46.13% | **64.59%** |
+| Test Accuracy | 44.80% | **62.68%** |
+| Macro F1-Score | 42.22% | **59.64%** |
+| Weighted F1-Score | 43.49% | **62.33%** |
+| Parameters | 422,602 | 545,546 |
 
 The Vision Transformer (ViT) outperformed the CNN across all evaluated metrics. It achieved a 17.88 percentage-point improvement in test accuracy, along with higher Macro F1-Score and Weighted F1-Score.
 
