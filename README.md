@@ -8,8 +8,8 @@ Galaxy morphology classification is an important task in astronomical image anal
 
 In this project, two deep learning approaches are developed and evaluated on the same galaxy classification task:
 
-- **Convolutional Neural Network (CNN)** — a traditional image classification architecture that learns spatial features through convolutional layers.
-- **Vision Transformer (ViT)** — a transformer-based architecture that processes image patches and learns relationships between different regions of an image.
+- **Convolutional Neural Network (CNN)** — A traditional image classification architecture that learns spatial features through convolutional layers.
+- **Vision Transformer (ViT)** — A transformer-based architecture that processes image patches and learns relationships between different regions of an image.
 
 The objective is to compare their classification performance and determine which architecture performs better for galaxy morphology classification.
 
@@ -63,7 +63,7 @@ The project includes visual analysis of both models through:
 - CNN vs ViT performance comparison
 - ViT prediction confidence analysis
 
-All major result figures are available in the [`results`](./results) directory.
+All major result figures are available in the [`results`](./Results) directory.
 
 ## 📁 Repository Structure
 
