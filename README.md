@@ -71,13 +71,10 @@ All major result figures are available in the [`results`](./Results) directory.
 Galaxy_Morphology_Classification/
 │
 ├── CNN/
-│   └── Galaxy_Morphology_Classification_CNN.ipynb
+│   └── CNN notebook
 │
 ├── Vision_Transformer/
-│   └── Galaxy_Morphology_Classification_Vision_Transformer.ipynb
-│
-├── Comparison/
-│   └── README.md
+│   └── ViT notebook
 │
 ├── results/
 │   ├── cnn_training_history.png
@@ -86,6 +83,9 @@ Galaxy_Morphology_Classification/
 │   ├── vit_confusion_matrix.png
 │   ├── cnn_vs_vit_comparison.png
 │   └── vit_prediction_confidence.png
+│
+├── Comparison/
+│   └── README.md
 │
 ├── README.md
 └── .gitignore
