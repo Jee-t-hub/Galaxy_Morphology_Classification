@@ -1,6 +1,6 @@
 # Galaxy Morphology Classification: CNN vs Vision Transformer
 
-A deep learning project for classifying galaxy images based on their morphological characteristics using two different computer vision architectures: a Convolutional Neural Network (CNN) and a Vision Transformer (ViT).
+A deep learning project for classifying galaxy images based on their morphological characteristics using two different computer vision architectures: A Convolutional Neural Network (CNN) and A Vision Transformer (ViT).
 
 ## 📌 Project Overview
 
