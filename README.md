@@ -63,7 +63,7 @@ The project includes visual analysis of both models through:
 - CNN vs ViT performance comparison
 - ViT prediction confidence analysis
 
-All major result figures are available in the [`results`](./Results) directory.
+All major result figures are available in the [`results`](./03_Results) directory.
 
 ## 📁 Repository Structure
 
