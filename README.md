@@ -70,21 +70,20 @@ All major result figures are available in the [`results`](./Results) directory.
 ```text
 Galaxy_Morphology_Classification/
 │
-├── CNN/
+├── 01_Vision_Transformer/
+│   └── Vision Transformer notebook
+│
+├── 02_CNN/
 │   └── CNN notebook
 │
-├── Vision_Transformer/
-│   └── ViT notebook
+├── 03_Results/
+│   ├── CNN confusion matrix.png
+│   ├── CNN training and validation performance.png
+│   ├── Vision Transformer confusion matrix.png
+│   ├── ViT prediction confidence distribution.png
+│   └── CNN versus ViT comparison.png
 │
-├── results/
-│   ├── cnn_training_history.png
-│   ├── vit_training_history.png
-│   ├── cnn_confusion_matrix.png
-│   ├── vit_confusion_matrix.png
-│   ├── cnn_vs_vit_comparison.png
-│   └── vit_prediction_confidence.png
-│
-├── Comparison/
+├── 04_Comparison/
 │   └── README.md
 │
 ├── README.md
